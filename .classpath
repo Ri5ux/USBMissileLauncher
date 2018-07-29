@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_131"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="lib/jna-4.5.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GLX"/>
+	<classpathentry kind="lib" path="/GLX/lib/commons-lang3-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/GLX/lib/gson.jar"/>
+	<classpathentry kind="lib" path="/GLX/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="/GLX/lib/natives-windows.jar"/>
+	<classpathentry kind="lib" path="/GLX/lib/slick-util.jar"/>
+	<classpathentry kind="lib" path="/GLX/lib/slick.jar"/>
+	<classpathentry kind="lib" path="/GLX/lib/natives-linux.jar"/>
+	<classpathentry kind="lib" path="/GLX/lib/natives-mac.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
